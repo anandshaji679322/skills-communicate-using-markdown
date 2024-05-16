@@ -17,3 +17,6 @@ const number2 = 10;
 const sum = addNumbers(number1, number2);
 console.log(`The sum of ${number1} and ${number2} is: ${sum}`);
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Commit changes
+- [ ] Merge Pull Request
